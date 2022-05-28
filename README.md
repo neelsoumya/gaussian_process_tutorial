@@ -16,6 +16,8 @@ https://bookdown.org/rbg/surrogates/chap5.html
 
 https://cran.r-project.org/web/packages/GauPro/vignettes/GauPro.html
 
+https://github.com/EmuKit/emukit/blob/main/emukit/examples/spread_of_disease-with_seir_model/Emukit-task-spread-of-disease-with-seir-model.ipynb
+
 ## Contact
 
 Soumya Banerjee
