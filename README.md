@@ -18,7 +18,14 @@ https://cran.r-project.org/web/packages/GauPro/vignettes/GauPro.html
 
 https://github.com/EmuKit/emukit/blob/main/emukit/examples/spread_of_disease-with_seir_model/Emukit-task-spread-of-disease-with-seir-model.ipynb
 
+## Writeup
+
+https://osf.io/vja52/
+
+
 ## Contact
 
 Soumya Banerjee
+
+sb2333@cam.ac.uk
 
