@@ -18,11 +18,15 @@ https://bookdown.org/rbg/surrogates/chap5.html
 
 ## Code
 
+https://uk.mathworks.com/matlabcentral/fileexchange/48511-bayesian-linear-regression
+
 https://cran.r-project.org/web/packages/GauPro/vignettes/GauPro.html
 
 https://github.com/EmuKit/emukit/blob/main/emukit/examples/spread_of_disease-with_seir_model/Emukit-task-spread-of-disease-with-seir-model.ipynb
 
 ## Writeup
+
+https://osf.io/gx78k/
 
 https://osf.io/vja52/
 
