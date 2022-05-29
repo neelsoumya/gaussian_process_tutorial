@@ -8,6 +8,10 @@ Tutorial and examples for Gaussian processes
 
 https://distill.pub/2019/visual-exploration-gaussian-processes/
 
+https://www.youtube.com/watch?v=upJ31CIVWZo
+
+CONCEPT: Gaussian process regression is similar to Bayesian linear regression
+
 https://www.youtube.com/watch?v=vU6AiEYED9E
 
 https://bookdown.org/rbg/surrogates/chap5.html
