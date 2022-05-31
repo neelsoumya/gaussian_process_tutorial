@@ -39,6 +39,7 @@ http://gaussianprocess.org/gpml/code/matlab/doc/
 
 http://learning.eng.cam.ac.uk/carl/mauna/
 
+https://bookdown.org/rbg/surrogates/chap5.html
 
 
 ## Contact
