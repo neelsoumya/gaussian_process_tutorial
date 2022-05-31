@@ -10,7 +10,7 @@ https://distill.pub/2019/visual-exploration-gaussian-processes/
 
 https://www.youtube.com/watch?v=upJ31CIVWZo
 
-CONCEPT: Gaussian process regression is similar to Bayesian linear regression
+CONCEPT: Gaussian process regression is similar to Bayesian linear regression (with the addition of kernels)
 
 https://www.youtube.com/watch?v=vU6AiEYED9E
 
@@ -24,11 +24,21 @@ https://cran.r-project.org/web/packages/GauPro/vignettes/GauPro.html
 
 https://github.com/EmuKit/emukit/blob/main/emukit/examples/spread_of_disease-with_seir_model/Emukit-task-spread-of-disease-with-seir-model.ipynb
 
+https://uk.mathworks.com/help/stats/fitrgp.html
+
 ## Writeup
 
 https://osf.io/gx78k/
 
 https://osf.io/vja52/
+
+
+## Miscellaneous
+
+http://gaussianprocess.org/gpml/code/matlab/doc/
+
+http://learning.eng.cam.ac.uk/carl/mauna/
+
 
 
 ## Contact
