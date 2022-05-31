@@ -18,6 +18,8 @@ https://bookdown.org/rbg/surrogates/chap5.html
 
 ## Code
 
+https://uk.mathworks.com/help/stats/fitrgp.html
+
 https://uk.mathworks.com/matlabcentral/fileexchange/48511-bayesian-linear-regression
 
 https://cran.r-project.org/web/packages/GauPro/vignettes/GauPro.html
