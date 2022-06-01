@@ -48,6 +48,10 @@ http://learning.eng.cam.ac.uk/carl/mauna/
 https://bookdown.org/rbg/surrogates/chap5.html
 
 
+## Math
+
+https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html
+
 ## Contact
 
 Soumya Banerjee
