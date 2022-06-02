@@ -16,7 +16,11 @@ https://www.youtube.com/watch?v=upJ31CIVWZo
 
 CONCEPT: Gaussian process regression is similar to Bayesian linear regression (with the addition of kernels)
 
+Excellent videos
+
 https://www.youtube.com/watch?v=vU6AiEYED9E
+
+https://www.youtube.com/watch?v=e7as_wY0hUI
 
 https://bookdown.org/rbg/surrogates/chap5.html
 
